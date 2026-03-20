@@ -30,7 +30,7 @@ https://bharatbloodbank.netlify.app/
 ```bash
 npm run dev
 ```
-Opens at: http://localhost:5173
+Opens at: https://bharatbloodbank.netlify.app/
 
 ### 4. Build for production
 ```bash
