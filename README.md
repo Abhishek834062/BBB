@@ -23,7 +23,7 @@ npm install
 
 ### 2. Make sure backend is running
 ```
-http://localhost:8080/api
+https://bharatbloodbank.netlify.app/
 ```
 
 ### 3. Start dev server
