@@ -3,7 +3,7 @@ import { store } from '../store'
 import { logout } from '../store/slices/authSlice'
 
 const api = axios.create({
-  baseURL: '/api',
+ baseURL: 'https://bharatbloodbank.onrender.com/api'||'http://localhost:8080/api',
   timeout: 15000,
   headers: { 'Content-Type': 'application/json' },
 })
